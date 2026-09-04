@@ -18,7 +18,7 @@ readme = r'''<div align="center">
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="80%">
+  <img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="50%">
 </div>
 
 ---
