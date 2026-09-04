@@ -18,7 +18,7 @@ readme = r'''<div align="center">
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="50%">
+  <img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="80%">
 </div>
 
 ---
@@ -113,37 +113,37 @@ O objetivo é criar uma atmosfera **melancólica, misteriosa e desconfortável**
 <div align="center">
 
   <a href="https://i.imgur.com/UiEY4io.jpeg">
-    <img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="31%">
+    <img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="50%">
   </a>
   <a href="https://i.imgur.com/zXer2hw.jpeg">
-    <img src="https://i.imgur.com/zXer2hw.jpeg" alt="Teatro de Marion - Screenshot 02" width="31%">
+    <img src="https://i.imgur.com/zXer2hw.jpeg" alt="Teatro de Marion - Screenshot 02" width="50%">
   </a>
   <a href="https://i.imgur.com/gJ7dvGD.jpeg">
-    <img src="https://i.imgur.com/gJ7dvGD.jpeg" alt="Teatro de Marion - Screenshot 03" width="31%">
+    <img src="https://i.imgur.com/gJ7dvGD.jpeg" alt="Teatro de Marion - Screenshot 03" width="50%">
   </a>
 
   <br><br>
 
   <a href="https://i.imgur.com/fqZdLd8.jpeg">
-    <img src="https://i.imgur.com/fqZdLd8.jpeg" alt="Teatro de Marion - Screenshot 04" width="31%">
+    <img src="https://i.imgur.com/fqZdLd8.jpeg" alt="Teatro de Marion - Screenshot 04" width="50%">
   </a>
   <a href="https://i.imgur.com/8EV74v3.jpeg">
-    <img src="https://i.imgur.com/8EV74v3.jpeg" alt="Teatro de Marion - Screenshot 05" width="31%">
+    <img src="https://i.imgur.com/8EV74v3.jpeg" alt="Teatro de Marion - Screenshot 05" width="50%">
   </a>
   <a href="https://i.imgur.com/Nm5iFKo.jpeg">
-    <img src="https://i.imgur.com/Nm5iFKo.jpeg" alt="Teatro de Marion - Screenshot 06" width="31%">
+    <img src="https://i.imgur.com/Nm5iFKo.jpeg" alt="Teatro de Marion - Screenshot 06" width="50%">
   </a>
 
   <br><br>
 
   <a href="https://i.imgur.com/0F1NRpp.jpeg">
-    <img src="https://i.imgur.com/0F1NRpp.jpeg" alt="Teatro de Marion - Screenshot 07" width="31%">
+    <img src="https://i.imgur.com/0F1NRpp.jpeg" alt="Teatro de Marion - Screenshot 07" width="50%">
   </a>
   <a href="https://i.imgur.com/E9mleQ8.jpeg">
-    <img src="https://i.imgur.com/E9mleQ8.jpeg" alt="Teatro de Marion - Screenshot 08" width="31%">
+    <img src="https://i.imgur.com/E9mleQ8.jpeg" alt="Teatro de Marion - Screenshot 08" width="50%">
   </a>
   <a href="https://i.imgur.com/G2UbQoJ.jpeg">
-    <img src="https://i.imgur.com/G2UbQoJ.jpeg" alt="Teatro de Marion - Screenshot 09" width="31%">
+    <img src="https://i.imgur.com/G2UbQoJ.jpeg" alt="Teatro de Marion - Screenshot 09" width="50%">
   </a>
 
 </div>
