@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 # 🎭 Teatro de Marion
 
@@ -113,37 +111,31 @@ O objetivo é criar uma atmosfera **melancólica, misteriosa e desconfortável**
 <div align="center">
 
   <a href="https://i.imgur.com/UiEY4io.jpeg">
-    <img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="50%">
+    <img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="48%">
   </a>
   <a href="https://i.imgur.com/zXer2hw.jpeg">
-    <img src="https://i.imgur.com/zXer2hw.jpeg" alt="Teatro de Marion - Screenshot 02" width="50%">
+    <img src="https://i.imgur.com/zXer2hw.jpeg" alt="Teatro de Marion - Screenshot 02" width="48%">
   </a>
   <a href="https://i.imgur.com/gJ7dvGD.jpeg">
-    <img src="https://i.imgur.com/gJ7dvGD.jpeg" alt="Teatro de Marion - Screenshot 03" width="50%">
+    <img src="https://i.imgur.com/gJ7dvGD.jpeg" alt="Teatro de Marion - Screenshot 03" width="48%">
   </a>
-
-  <br><br>
-
   <a href="https://i.imgur.com/fqZdLd8.jpeg">
-    <img src="https://i.imgur.com/fqZdLd8.jpeg" alt="Teatro de Marion - Screenshot 04" width="50%">
+    <img src="https://i.imgur.com/fqZdLd8.jpeg" alt="Teatro de Marion - Screenshot 04" width="48%">
   </a>
   <a href="https://i.imgur.com/8EV74v3.jpeg">
-    <img src="https://i.imgur.com/8EV74v3.jpeg" alt="Teatro de Marion - Screenshot 05" width="50%">
+    <img src="https://i.imgur.com/8EV74v3.jpeg" alt="Teatro de Marion - Screenshot 05" width="48%">
   </a>
   <a href="https://i.imgur.com/Nm5iFKo.jpeg">
-    <img src="https://i.imgur.com/Nm5iFKo.jpeg" alt="Teatro de Marion - Screenshot 06" width="50%">
+    <img src="https://i.imgur.com/Nm5iFKo.jpeg" alt="Teatro de Marion - Screenshot 06" width="48%">
   </a>
-
-  <br><br>
-
   <a href="https://i.imgur.com/0F1NRpp.jpeg">
-    <img src="https://i.imgur.com/0F1NRpp.jpeg" alt="Teatro de Marion - Screenshot 07" width="50%">
+    <img src="https://i.imgur.com/0F1NRpp.jpeg" alt="Teatro de Marion - Screenshot 07" width="48%">
   </a>
   <a href="https://i.imgur.com/E9mleQ8.jpeg">
-    <img src="https://i.imgur.com/E9mleQ8.jpeg" alt="Teatro de Marion - Screenshot 08" width="50%">
+    <img src="https://i.imgur.com/E9mleQ8.jpeg" alt="Teatro de Marion - Screenshot 08" width="48%">
   </a>
   <a href="https://i.imgur.com/G2UbQoJ.jpeg">
-    <img src="https://i.imgur.com/G2UbQoJ.jpeg" alt="Teatro de Marion - Screenshot 09" width="50%">
+    <img src="https://i.imgur.com/G2UbQoJ.jpeg" alt="Teatro de Marion - Screenshot 09" width="48%">
   </a>
 
 </div>
@@ -193,3 +185,93 @@ teatro_de_marion/
 ├── offline.json        # Dados/configurações offline
 ├── style.css           # Estilos da aplicação
 └── sw.js               # Service Worker
+```
+
+---
+
+## 🚧 Status do projeto
+
+**Teatro de Marion está em desenvolvimento ativo.**
+
+Algumas partes do projeto ainda estão sendo produzidas, revisadas e aprimoradas, incluindo conteúdo narrativo, cenários, enigmas, áudio, arte e polimento geral.
+
+### Roadmap
+
+- [x] Conceito e identidade do projeto
+- [x] Estrutura inicial da aventura
+- [x] Ato I
+- [x] Ato II
+- [ ] Ato III
+- [ ] Ato IV
+- [ ] Conclusão da narrativa
+- [ ] Polimento final
+- [ ] Trilha sonora definitiva
+- [ ] Efeitos sonoros finais
+- [ ] Versão final para publicação
+
+---
+
+## 🎯 Objetivos do projeto
+
+**Teatro de Marion** busca criar uma experiência curta, atmosférica e memorável, inspirada em aventuras narrativas clássicas e em obras de terror psicológico e surrealista.
+
+Mais do que contar uma história, a proposta é fazer o jogador **montar a história por conta própria**.
+
+---
+
+## 📌 Informações
+
+| Item | Detalhes |
+|---|---|
+| **Gênero** | Point-and-click / Terror surrealista |
+| **Plataforma** | Navegador |
+| **Engine** | Construct 3 |
+| **Status** | Em desenvolvimento |
+| **Modo** | Experiência single-player |
+| **Idioma** | Português |
+
+---
+
+## 🔒 Licença e direitos autorais
+
+### Todos os direitos reservados
+
+**Teatro de Marion não é um projeto open source.**
+
+Todos os direitos sobre o projeto são reservados aos seus respectivos detentores, incluindo, mas não se limitando a:
+
+- Código-fonte
+- História e roteiro
+- Personagens
+- Nomes e conceitos
+- Ilustrações e sprites
+- Cenários
+- Animações
+- Áudio e música
+- Efeitos sonoros
+- Assets
+- Design e elementos visuais
+
+Nenhum conteúdo deste projeto pode ser **copiado, redistribuído, modificado, reutilizado, publicado, comercializado ou incorporado a outros projetos** sem autorização prévia e expressa do detentor dos direitos.
+
+A disponibilização do projeto no GitHub tem finalidade de **apresentação, acompanhamento do desenvolvimento e demonstração**. A publicação do código não constitui concessão de licença de uso.
+
+> **Copyright © 2026 — Teatro de Marion. All Rights Reserved.**
+
+---
+
+## 👤 Desenvolvedor
+
+**JS171555**
+
+Projeto independente em desenvolvimento.
+
+---
+
+<div align="center">
+
+### 🎭 O espetáculo ainda não terminou.
+
+<sub>Memórias são como marionetes: alguém sempre está puxando os fios.</sub>
+
+</div>
