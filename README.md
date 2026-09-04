@@ -1,137 +1,179 @@
+from pathlib import Path
+
+readme = r'''<div align="center">
+
 # 🎭 Teatro de Marion
 
-> Um point-and-click narrativo sobre memórias, identidade e os fragmentos de uma vida esquecida.
+**Uma aventura point-and-click de terror surrealista sobre memória, identidade e os fragmentos de uma vida esquecida.**
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](#status-do-projeto)
-[![Engine](https://img.shields.io/badge/engine-Construct%203-blue)](https://www.construct.net/)
-[![Platform](https://img.shields.io/badge/platform-Web-orange)](#plataforma)
-[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](#licença)
+<p>
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-C9A227?style=for-the-badge" alt="Status: Em desenvolvimento">
+  <img src="https://img.shields.io/badge/engine-Construct%203-5B8DEF?style=for-the-badge" alt="Construct 3">
+  <img src="https://img.shields.io/badge/platform-Web-24292F?style=for-the-badge" alt="Plataforma Web">
+  <img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-8B0000?style=for-the-badge" alt="All Rights Reserved">
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="100%">
+</div>
 
 ---
 
 ## 🎭 Sobre o jogo
 
-**Teatro de Marion** é uma aventura narrativa de estilo **point-and-click**, ambientada em um teatro abandonado onde realidade, memória e imaginação se misturam.
+**Teatro de Marion** é uma aventura narrativa **point-and-click de terror surrealista**, ambientada em um teatro abandonado onde memória, identidade e realidade começam a se confundir.
 
-O jogador assume o controle de **Marion**, uma marionete que desperta sozinha no palco de um teatro vazio.
+Você assume o controle de **Marion**, uma marionete que desperta sozinha no palco.
 
-Não há público.
+Não há plateia.  
+Não há fios.  
+Não há ninguém para dizer o que aconteceu.
 
-Não há fios.
-
-Não há ninguém para explicar por que ela está ali.
-
-Conforme as cortinas se abrem, Marion é conduzida por diferentes cenas que representam fragmentos da vida de uma pessoa.
-
-Cada ato revela uma nova parte dessa história — e, pouco a pouco, o jogador precisa reconstruir acontecimentos esquecidos através de objetos, ambientes, imagens e enigmas.
+À medida que as cortinas se abrem, novas cenas revelam fragmentos de uma vida esquecida. Cada ambiente guarda pistas, objetos e acontecimentos que precisam ser interpretados para reconstruir uma história que parece ter sido apagada.
 
 > **Nem toda memória quer ser lembrada.**
 
 ---
 
-## 🧵 História
+## 🧵 A proposta
 
-Marion desperta no palco de um teatro abandonado.
+O teatro funciona como uma espécie de memória viva.
 
-O lugar parece ter sido preparado para uma apresentação que nunca aconteceu.
+Cada ato representa uma fase diferente da vida humana e apresenta novos ambientes, símbolos e enigmas. O jogador não recebe todas as respostas de forma direta: parte da narrativa é construída através da observação e da interpretação dos cenários.
 
-Ao explorar o teatro, novas cenas começam a surgir atrás das cortinas. Cada uma delas representa uma fase diferente da vida humana.
-
-Infância.
-
-Adolescência.
-
-Maturidade.
-
-Decadência.
-
-Marion precisa investigar cada cenário, interpretar suas pistas e solucionar os enigmas encontrados pelo caminho.
-
-Mas existe uma pergunta que permanece:
-
-**Por que Marion existe?**
-
-E quem está contando essa história?
+A experiência foi pensada para ser **imersiva, silenciosa e estranha**, colocando o ambiente no centro da narrativa.
 
 ---
 
 ## 🎮 Gameplay
 
-**Teatro de Marion** utiliza uma abordagem clássica de aventura point-and-click.
-
-O jogador deve:
+A experiência segue a estrutura clássica dos jogos de aventura **point-and-click**:
 
 - 🔎 Explorar os cenários
-- 🖱️ Interagir com objetos
+- 🖱️ Interagir com objetos e elementos do ambiente
 - 🧩 Resolver enigmas
-- 📝 Interpretar pistas
+- 📝 Encontrar e interpretar pistas
 - 🧠 Reconstruir acontecimentos
 - 🎭 Descobrir memórias escondidas
 - 🚪 Avançar pelos diferentes atos
 
-O jogo não utiliza uma HUD tradicional. A intenção é manter a interface mínima e permitir que o ambiente faça parte da experiência narrativa.
+O projeto evita uma HUD tradicional para manter a interface mínima e deixar o cenário conduzir o jogador.
 
 ---
 
-## 🎬 Estrutura
-
-A história é dividida em atos, representando diferentes fases da vida.
+## 🎬 Estrutura da história
 
 ### Ato I — A Casa do Silêncio
 
-A infância é apresentada através de um ambiente aparentemente infantil, mas marcado pelo abandono e pelo silêncio.
+A infância é apresentada através de um quarto infantil aparentemente comum, mas tomado pelo abandono e por sinais de acontecimentos perturbadores.
 
-O jogador encontra objetos quebrados, desenhos, brinquedos e outros elementos que escondem pistas sobre o passado.
+Brinquedos quebrados, desenhos, objetos esquecidos e outras pistas revelam uma memória fragmentada.
 
-O ambiente funciona como uma memória fragmentada, onde nem tudo é o que parece.
-
----
+O jogador precisa reconstruir uma imagem familiar e descobrir o que existe por trás daquela lembrança.
 
 ### Ato II — O Baile dos Vazios
 
-A adolescência é representada por um salão abandonado repleto de espelhos, máscaras e figuras quebradas.
+A adolescência ganha forma em um salão abandonado cercado por espelhos, máscaras e figuras quebradas.
 
-Aqui, identidade e percepção passam a ter um papel central.
+Aqui, **identidade e percepção** passam a ocupar o centro da narrativa.
 
-Entre máscaras, reflexos e memórias distorcidas, Marion precisa descobrir qual delas realmente pertence a ela.
-
----
+Entre reflexos distorcidos e memórias incompletas, Marion precisa descobrir qual máscara realmente pertence a ela.
 
 ### Ato III — Em desenvolvimento
 
-A terceira etapa da história representa uma nova fase da vida e continuará expandindo os acontecimentos apresentados nos atos anteriores.
+A terceira fase da história continuará expandindo os acontecimentos apresentados nos atos anteriores, levando Marion a novos cenários e novas partes da memória.
 
-> O desenvolvimento da história continua.
+> O palco ainda não terminou de contar sua história.
 
 ---
 
-## 🎨 Direção artística
+## 🕯️ Direção artística
 
-O projeto utiliza uma estética inspirada em:
+A identidade visual de **Teatro de Marion** combina elementos de:
 
 - Teatro clássico
+- Terror surrealista
 - Contos sombrios
-- Surrealismo
-- Bonecos e marionetes
+- Marionetes e bonecos
 - Cenários abandonados
+- Simbolismo visual
 - Memórias distorcidas
-- Ilustrações de aparência artesanal
+- Ilustração digital com aparência artesanal
 
-A direção visual busca criar uma atmosfera **melancólica, misteriosa e desconfortável**, utilizando o próprio cenário como ferramenta narrativa.
+O objetivo é criar uma atmosfera **melancólica, misteriosa e desconfortável**, onde praticamente tudo no cenário pode ter significado.
+
+---
+
+## 📸 Galeria
+
+<div align="center">
+
+  <a href="https://i.imgur.com/UiEY4io.jpeg">
+    <img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="31%">
+  </a>
+  <a href="https://i.imgur.com/zXer2hw.jpeg">
+    <img src="https://i.imgur.com/zXer2hw.jpeg" alt="Teatro de Marion - Screenshot 02" width="31%">
+  </a>
+  <a href="https://i.imgur.com/gJ7dvGD.jpeg">
+    <img src="https://i.imgur.com/gJ7dvGD.jpeg" alt="Teatro de Marion - Screenshot 03" width="31%">
+  </a>
+
+  <br><br>
+
+  <a href="https://i.imgur.com/fqZdLd8.jpeg">
+    <img src="https://i.imgur.com/fqZdLd8.jpeg" alt="Teatro de Marion - Screenshot 04" width="31%">
+  </a>
+  <a href="https://i.imgur.com/8EV74v3.jpeg">
+    <img src="https://i.imgur.com/8EV74v3.jpeg" alt="Teatro de Marion - Screenshot 05" width="31%">
+  </a>
+  <a href="https://i.imgur.com/Nm5iFKo.jpeg">
+    <img src="https://i.imgur.com/Nm5iFKo.jpeg" alt="Teatro de Marion - Screenshot 06" width="31%">
+  </a>
+
+  <br><br>
+
+  <a href="https://i.imgur.com/0F1NRpp.jpeg">
+    <img src="https://i.imgur.com/0F1NRpp.jpeg" alt="Teatro de Marion - Screenshot 07" width="31%">
+  </a>
+  <a href="https://i.imgur.com/E9mleQ8.jpeg">
+    <img src="https://i.imgur.com/E9mleQ8.jpeg" alt="Teatro de Marion - Screenshot 08" width="31%">
+  </a>
+  <a href="https://i.imgur.com/G2UbQoJ.jpeg">
+    <img src="https://i.imgur.com/G2UbQoJ.jpeg" alt="Teatro de Marion - Screenshot 09" width="31%">
+  </a>
+
+</div>
+
+> Clique em qualquer imagem para visualizá-la em tamanho completo.
+
+---
+
+## 🌐 Jogue no navegador
+
+A versão Web do projeto foi preparada para execução diretamente no navegador.
+
+**▶️ Jogar Teatro de Marion:**  
+`Em breve`
+
+> A versão jogável será disponibilizada através do GitHub Pages.
 
 ---
 
 ## 🛠️ Tecnologias
 
-O projeto está sendo desenvolvido utilizando:
+O projeto utiliza principalmente:
 
-- **Construct 3**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **Web APIs**
-
-A versão disponibilizada neste repositório corresponde à versão Web do jogo.
+| Tecnologia | Uso |
+|---|---|
+| **Construct 3** | Desenvolvimento do jogo |
+| **HTML5** | Execução e estrutura da versão Web |
+| **CSS3** | Estilização da aplicação |
+| **JavaScript** | Scripts e recursos complementares |
+| **Web APIs** | Recursos de navegador e integração Web |
 
 ---
 
@@ -141,13 +183,13 @@ A versão disponibilizada neste repositório corresponde à versão Web do jogo.
 teatro_de_marion/
 │
 ├── icons/              # Ícones e recursos da aplicação
-├── images/             # Imagens e sprites utilizados pelo jogo
+├── images/             # Imagens e sprites do jogo
 ├── media/              # Recursos multimídia
-├── scripts/            # Scripts e runtime da aplicação
+├── scripts/            # Scripts e runtime
 │
 ├── appmanifest.json    # Manifest da aplicação Web
-├── data.json           # Dados do jogo
+├── data.json           # Dados exportados do jogo
 ├── index.html          # Página principal
-├── offline.json        # Configurações relacionadas ao modo offline
+├── offline.json        # Dados/configurações offline
 ├── style.css           # Estilos da aplicação
 └── sw.js               # Service Worker
