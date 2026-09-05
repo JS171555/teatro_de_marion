@@ -1,35 +1,31 @@
 <div align="center">
 
-# 🎭 Teatro de Marion
+# Teatro de Marion
 
 **Uma aventura point-and-click de terror surrealista sobre memória, identidade e os fragmentos de uma vida esquecida.**
 
 <p>
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-C9A227?style=for-the-badge" alt="Status: Em desenvolvimento">
+<img src="https://img.shields.io/badge/status-em%20desenvolvimento-C9A227?style=for-the-badge" alt="Status: Em desenvolvimento">
   <img src="https://img.shields.io/badge/engine-Construct%203-5B8DEF?style=for-the-badge" alt="Construct 3">
   <img src="https://img.shields.io/badge/platform-Web-24292F?style=for-the-badge" alt="Plataforma Web">
   <img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-8B0000?style=for-the-badge" alt="All Rights Reserved">
-</p>
-
-</div>
+</p> </div>
 
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="80%">
+<img src="https://i.imgur.com/9rFvrwZ.jpeg" alt="Teatro de Marion - Capa" width="80%">
 </div>
 
 ---
 
-## 🎭 Sobre o jogo
+## Sobre o jogo
 
 **Teatro de Marion** é uma aventura narrativa **point-and-click de terror surrealista**, ambientada em um teatro abandonado onde memória, identidade e realidade começam a se confundir.
 
 Você assume o controle de **Marion**, uma marionete que desperta sozinha no palco.
 
-Não há plateia.  
-Não há fios.  
-Não há ninguém para dizer o que aconteceu.
+Não há plateia.Não há fios.Não há ninguém para dizer o que aconteceu.
 
 À medida que as cortinas se abrem, novas cenas revelam fragmentos de uma vida esquecida. Cada ambiente guarda pistas, objetos e acontecimentos que precisam ser interpretados para reconstruir uma história que parece ter sido apagada.
 
@@ -37,7 +33,7 @@ Não há ninguém para dizer o que aconteceu.
 
 ---
 
-## 🧵 A proposta
+## A proposta
 
 O teatro funciona como uma espécie de memória viva.
 
@@ -47,23 +43,29 @@ A experiência foi pensada para ser **imersiva, silenciosa e estranha**, colocan
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 A experiência segue a estrutura clássica dos jogos de aventura **point-and-click**:
 
-- 🔎 Explorar os cenários
-- 🖱️ Interagir com objetos e elementos do ambiente
-- 🧩 Resolver enigmas
-- 📝 Encontrar e interpretar pistas
-- 🧠 Reconstruir acontecimentos
-- 🎭 Descobrir memórias escondidas
-- 🚪 Avançar pelos diferentes atos
+- Explorar os cenários
+
+- Interagir com objetos e elementos do ambiente
+
+- Resolver enigmas
+
+- Encontrar e interpretar pistas
+
+- Reconstruir acontecimentos
+
+- Descobrir memórias escondidas
+
+- Avançar pelos diferentes atos
 
 O projeto evita uma HUD tradicional para manter a interface mínima e deixar o cenário conduzir o jogador.
 
 ---
 
-## 🎬 Estrutura da história
+## Estrutura da história
 
 ### Ato I — A Casa do Silêncio
 
@@ -89,29 +91,34 @@ A terceira fase da história continuará expandindo os acontecimentos apresentad
 
 ---
 
-## 🕯️ Direção artística
+## Direção artística
 
 A identidade visual de **Teatro de Marion** combina elementos de:
 
 - Teatro clássico
+
 - Terror surrealista
+
 - Contos sombrios
+
 - Marionetes e bonecos
+
 - Cenários abandonados
+
 - Simbolismo visual
+
 - Memórias distorcidas
+
 - Ilustração digital com aparência artesanal
 
 O objetivo é criar uma atmosfera **melancólica, misteriosa e desconfortável**, onde praticamente tudo no cenário pode ter significado.
 
 ---
 
-## 📸 Galeria
+## Galeria
 
-<div align="center">
-
-  <a href="https://i.imgur.com/UiEY4io.jpeg">
-    <img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="48%">
+<div align="center">   <a href="https://i.imgur.com/UiEY4io.jpeg">
+<img src="https://i.imgur.com/UiEY4io.jpeg" alt="Teatro de Marion - Screenshot 01" width="48%">
   </a>
   <a href="https://i.imgur.com/zXer2hw.jpeg">
     <img src="https://i.imgur.com/zXer2hw.jpeg" alt="Teatro de Marion - Screenshot 02" width="48%">
@@ -136,42 +143,47 @@ O objetivo é criar uma atmosfera **melancólica, misteriosa e desconfortável**
   </a>
   <a href="https://i.imgur.com/G2UbQoJ.jpeg">
     <img src="https://i.imgur.com/G2UbQoJ.jpeg" alt="Teatro de Marion - Screenshot 09" width="48%">
-  </a>
-
-</div>
+  </a> </div>
 
 > Clique em qualquer imagem para visualizá-la em tamanho completo.
 
 ---
 
-## 🌐 Jogue no navegador
+## Jogue no navegador
 
 A versão Web do projeto foi preparada para execução diretamente no navegador.
 
-**▶️ Jogar Teatro de Marion:**  
-`Em breve`
+**Jogar Teatro de Marion:**`Em breve`
 
 > A versão jogável será disponibilizada através do GitHub Pages.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 O projeto utiliza principalmente:
 
+<p align="center">
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,js,github&perline=4" alt="Tecnologias utilizadas: HTML, CSS, JavaScript e GitHub">
+  </a>
+</p>
+
 | Tecnologia | Uso |
-|---|---|
+| --- | --- |
 | **Construct 3** | Desenvolvimento do jogo |
 | **HTML5** | Execução e estrutura da versão Web |
 | **CSS3** | Estilização da aplicação |
 | **JavaScript** | Scripts e recursos complementares |
 | **Web APIs** | Recursos de navegador e integração Web |
 
+> Os ícones desta seção são fornecidos pelo [Skill Icons](https://github.com/tandpfun/skill-icons).
+
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
-```text
+```
 teatro_de_marion/
 │
 ├── icons/              # Ícones e recursos da aplicação
@@ -189,7 +201,7 @@ teatro_de_marion/
 
 ---
 
-## 🚧 Status do projeto
+## Status do projeto
 
 **Teatro de Marion está em desenvolvimento ativo.**
 
@@ -198,20 +210,30 @@ Algumas partes do projeto ainda estão sendo produzidas, revisadas e aprimoradas
 ### Roadmap
 
 - [x] Conceito e identidade do projeto
+
 - [x] Estrutura inicial da aventura
+
 - [x] Ato I
+
 - [x] Ato II
+
 - [ ] Ato III
+
 - [ ] Ato IV
+
 - [ ] Conclusão da narrativa
+
 - [ ] Polimento final
+
 - [ ] Trilha sonora definitiva
+
 - [ ] Efeitos sonoros finais
+
 - [ ] Versão final para publicação
 
 ---
 
-## 🎯 Objetivos do projeto
+## Objetivos do projeto
 
 **Teatro de Marion** busca criar uma experiência curta, atmosférica e memorável, inspirada em aventuras narrativas clássicas e em obras de terror psicológico e surrealista.
 
@@ -219,10 +241,10 @@ Mais do que contar uma história, a proposta é fazer o jogador **montar a hist�
 
 ---
 
-## 📌 Informações
+## Informações
 
 | Item | Detalhes |
-|---|---|
+| --- | --- |
 | **Gênero** | Point-and-click / Terror surrealista |
 | **Plataforma** | Navegador |
 | **Engine** | Construct 3 |
@@ -232,7 +254,7 @@ Mais do que contar uma história, a proposta é fazer o jogador **montar a hist�
 
 ---
 
-## 🔒 Licença e direitos autorais
+## Licença e direitos autorais
 
 ### Todos os direitos reservados
 
@@ -241,15 +263,25 @@ Mais do que contar uma história, a proposta é fazer o jogador **montar a hist�
 Todos os direitos sobre o projeto são reservados aos seus respectivos detentores, incluindo, mas não se limitando a:
 
 - Código-fonte
+
 - História e roteiro
+
 - Personagens
+
 - Nomes e conceitos
+
 - Ilustrações e sprites
+
 - Cenários
+
 - Animações
+
 - Áudio e música
+
 - Efeitos sonoros
+
 - Assets
+
 - Design e elementos visuais
 
 Nenhum conteúdo deste projeto pode ser **copiado, redistribuído, modificado, reutilizado, publicado, comercializado ou incorporado a outros projetos** sem autorização prévia e expressa do detentor dos direitos.
@@ -260,7 +292,7 @@ A disponibilização do projeto no GitHub tem finalidade de **apresentação, ac
 
 ---
 
-## 👤 Desenvolvedor
+## Desenvolvedor
 
 **JS171555**
 
@@ -270,7 +302,7 @@ Projeto independente em desenvolvimento.
 
 <div align="center">
 
-### 🎭 O espetáculo ainda não terminou.
+### O espetáculo ainda não terminou.
 
 <sub>Memórias são como marionetes: alguém sempre está puxando os fios.</sub>
 
